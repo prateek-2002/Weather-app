@@ -12,13 +12,13 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: black;
+    background-color: #121212;
 }
 
 .container{
     width: 400px;
     height: min-content;
-    background-color: white;
+    background-color: #fefefe;  
     border-radius: 12px;
     padding: 28px;
 }
